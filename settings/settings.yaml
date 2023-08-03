@@ -1,0 +1,15 @@
+log:
+  freq: day
+  useUTC: false
+loginUser:
+  username: 1
+  password: 1
+sysManager: admin
+mysql:
+  database: ctriptravels
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  password: 778699
+parameter:
+  threadNum: 3
